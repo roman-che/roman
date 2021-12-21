@@ -17,4 +17,6 @@ A total of 9 arcade-style minigames with a scoreboard to display top teams.
 Game Point Escape room center Barcelona (as a lead engineer)
 https://www.youtube.com/watch?v=dMEOm5OGk5Y
 Two story facility with a total of 16 escape rooms
-— On this project, my responcibility was to create all the electronics for 14 escape rooms, pass the comissioning before delivery and to make sure that everything works after installation on site. Prior to installation I created wire plans in collaboration with architect, designed centralised control boxes that united gaming electronics within one room and managed the engineers developing the remote-control equipment.
+— On this project, my responcibility was to create all the electronics for 14 escape rooms, pass the comissioning before delivery and to make sure that everything works after installation on site. Prior to installation I created wire plans in collaboration with architect, designed centralised control boxes that united gaming electronics within one room and managed the engineers developing the remote-control units for game masters.
+
+
