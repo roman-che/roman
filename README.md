@@ -43,7 +43,7 @@ ___
 <img width="4%" title="Telegram" src="img/logo/json.svg">
 <img width="4%" title="Telegram" src="img/logo/mqtt-ver.svg">
 <img width="4%" title="Telegram" src="img/logo/node-red-icon.svg">
-<img width="3%" title="Telegram" src="img/logo/arduino-1.svg">
+<img width="4%" title="Telegram" src="img/logo/arduino-1.svg">
 <img width="3%" title="Telegram" src="img/logo/raspberry-pi.svg">
 
 </p>
